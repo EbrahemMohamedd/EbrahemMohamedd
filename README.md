@@ -24,9 +24,9 @@ I’m a junior computer science student and aspiring Software Developer, passion
 ## 📌 Pinned Projects
 - 🔹[Flappy Bird Advanced (C++/SFML)](https://github.com/EbrahemMohamedd/Flappy-Bird)
 - 🔹[Food Ordering System (C++/Qt)](link_here)
-- 🔹[Airline-Passenger-Satisfaction-Prediction(Python)](link_here)
+- 🔹[Airline-Passenger-Satisfaction-Prediction(Python)](https://github.com/EbrahemMohamedd/Airline-Passenger-Satisfaction-Prediction)
 - 🔹[Gym & Padel Management System (C++/Qt)](link_here)
-- 🔹[ML-Heart-disease-Detection-Applai(Python)](link_here)
+- 🔹[ML-Heart-disease-Detection-Applai(Python)](https://github.com/EbrahemMohamedd/ML-Heart-disease-Detection-Applai)
 ---
 
 ## 📫 How to reach me
