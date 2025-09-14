@@ -20,8 +20,8 @@ I'm a junior computer science student and passionate developer with interests in
 ---
 
 ## 📌 Pinned Projects
--🔹 [Food Ordering System (C++/Qt)](link_here)
--🔹[Flappy Bird Advanced (C++/SFML)](link_here)
+- 🔹[Food Ordering System (C++/Qt)](link_here)
+- 🔹[Flappy Bird Advanced (C++/SFML)](link_here)
 - 🔹[Student Management System (JavaFX)](link_here)
 - 🔹[Machine Learning Project (Python)](link_here)
 
