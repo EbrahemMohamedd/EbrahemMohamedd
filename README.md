@@ -28,5 +28,5 @@ I’m a junior computer science student and aspiring Software Developer, passion
 
 ## 📫 How to reach me
 - Email:ebrahemmohamed1237@gmail.com 
-- LinkedIn: [](linkedin.com/in/ebrahem-mohamed-7ba909334)  
+- LinkedIn: [Ebrahem Mohamed](linkedin.com/in/ebrahem-mohamed-7ba909334)  
 - Discord: your_discord_here 
