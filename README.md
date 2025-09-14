@@ -1,6 +1,6 @@
 # Hi there, I'm Ebrahem 👋
 
-✨ Welcome to my GitHub profile!
+#✨ Welcome to my GitHub profile!
 I’m a junior computer science student and aspiring Software Developer, passionate about software development, system design, .NET technologies, and artificial intelligence, always learning and building new project
 
 ---
