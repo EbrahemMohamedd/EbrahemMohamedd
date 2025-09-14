@@ -1,33 +1,32 @@
 # Hi there, I'm Ebrahem 👋
 
-Welcome to my GitHub profile!  
-I'm a junior computer science student and passionate developer with interests in web development, system design, and AI.
+✨ Welcome to my GitHub profile!
+I’m a junior computer science student and aspiring Software Developer, passionate about software development, system design, .NET technologies, and artificial intelligence, always learning and building new project
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently learning: JavaScript, React, Node.js  
-- 🔍 Exploring: Databases, APIs, Security concepts  
-- 🎯 Goals: Become a full-stack developer with strong problem-solving skills  
+- 🔍 Exploring: Databases, APIs, ASP.NET Core 
+- 🎯 Goals: Become a software developer with strong problem-solving skills  
 
 ---
 
 ## 🛠️ Technologies
-**Languages:** C++, Python, Java, JavaScript, CSS, HTML  
-**Frameworks:** Node.js, React (learning)  
+**Languages:** C++, Python, Java, JavaScript, CSS, HTML,c# 
+**Frameworks:** Node.js,.Net 
 **Hobbies:** Problem Solving, System Design, AI projects  
 
 ---
 
 ## 📌 Pinned Projects
-- 🔹[Food Ordering System (C++/Qt)](link_here)
 - 🔹[Flappy Bird Advanced (C++/SFML)](link_here)
-- 🔹[Student Management System (JavaFX)](link_here)
-- 🔹[Machine Learning Project (Python)](link_here)
-
+- 🔹[Food Ordering System (C++/Qt)](link_here)
+- 🔹[Airline-Passenger-Satisfaction-Prediction(Python)](link_here)
+- 🔹[Gym & Padel Management System (C++/Qt)](link_here)
+- 🔹[ML-Heart-disease-Detection-Applai(Python)](link_here)
 ---
 
 ## 📫 How to reach me
-- Email: your_email_here  
-- LinkedIn: [Your LinkedIn](your_linkedin_link_here)  
+- Email:ebrahemmohamed1237@gmail.com 
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/ebrahem-mohamed-7ba909334)  
 - Discord: your_discord_here 
