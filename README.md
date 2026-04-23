@@ -27,7 +27,7 @@ I’m a junior computer science student and aspiring Software Developer, passion
 - 🔹[Airline-Passenger-Satisfaction-Prediction(Python)](https://github.com/EbrahemMohamedd/Airline-Passenger-Satisfaction-Prediction)
 - 🔹[Gym & Padel Management System (C++/Qt)](https://github.com/EbrahemMohamedd/XFitGym)
 - 🔹[ML-Heart-disease-Detection-Applai(Python)](https://github.com/EbrahemMohamedd/ML-Heart-disease-Detection-Applai)
-- 🔹[todo-app (type scripte/java script/)](https://github.com/EbrahemMohamedd/todo_app)
+- 🔹[todo-app (typescript/javascript)](https://github.com/EbrahemMohamedd/todo_app)
 ---
 
 ## 📫 How to reach me
