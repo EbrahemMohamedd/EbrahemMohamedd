@@ -13,7 +13,7 @@ I’m a junior computer science student and aspiring Software Developer, passion
 ---
 
 ## 🛠️ Technologies
-**Languages:** C++, Python, Java, JavaScript, CSS, HTML, C# 
+**Languages:** C#,C++ , JavaScript, HTML, CSS, Python, Java
 
 **Frameworks:** Node.js,.Net 
 
