@@ -15,7 +15,7 @@ I’m a junior computer science student and aspiring Software Developer, passion
 ## 🛠️ Technologies
 **Languages:** C#,C++ , JavaScript, HTML, CSS, Python, Java
 
-**Frameworks:** Node.js,.Net 
+**Frameworks:** ASP.NET Core 
 
 **Hobbies:** Problem Solving, System Design, AI projects  
 
